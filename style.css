@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+body {
+    background-color: #f3e8ff;
+    color: #2d0c57;
+    line-height: 1.6;
+}
+
+/* Header */
+.header {
+    background: linear-gradient(135deg, #7b2cbf, #9d4edd);
+    color: white;
+    text-align: center;
+    padding: 25px;
+}
+
+/* Sections */
+.section {
+    background-color: white;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 16px;
+    box-shadow: 0 6px 12px rgba(0,0,0,0.1);
+}
+
+.section h2 {
+    margin-bottom: 10px;
+    color: #5a189a;
+}
+
+.section ul {
+    padding-left: 20px;
+}
+
+/* Cards */
+.card {
+    background-color: #e9d5ff;
+    padding: 12px;
+    margin: 10px 0;
+    border-radius: 12px;
+}
+
+/* Mockups */
+.mockup {
+    margin-top: 15px;
+}
+
+.mock-box {
+    background-color: #c77dff;
+    color: white;
+    text-align: center;
+    padding: 30px;
+    border-radius: 12px;
+    margin-top: 10px;
+}
+
+/* Footer */
+.footer {
+    text-align: center;
+    padding: 20px;
+}
+
+.footer button {
+    background-color: #7b2cbf;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 20px;
+    font-size: 16px;
+}
